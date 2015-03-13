@@ -166,6 +166,7 @@ function ding_permissions_secure_permissions($role) {
       'view own private files',
     ),
     'administrators' => array(
+      'administer ting_marc settings',
       'access administration pages',
       'access all views',
       'access campaign rules',
@@ -590,6 +591,7 @@ function ding_permissions_secure_permissions($role) {
       'view the administration theme',
     ),
     'local administrator' => array(
+      'administer ting_marc settings',
       'access administration pages',
       'access campaign rules',
       'access content overview',
