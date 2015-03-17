@@ -166,6 +166,7 @@ function ding_permissions_secure_permissions($role) {
       'view own private files',
     ),
     'administrators' => array(
+      'administer easyddb direct',
       'administer ting_marc settings',
       'access administration pages',
       'access all views',
@@ -595,6 +596,7 @@ function ding_permissions_secure_permissions($role) {
       'view the administration theme',
     ),
     'local administrator' => array(
+      'administer easyddb direct',
       'administer ting_marc settings',
       'access administration pages',
       'access campaign rules',
