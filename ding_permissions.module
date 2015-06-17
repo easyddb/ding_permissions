@@ -166,7 +166,6 @@ function ding_permissions_secure_permissions($role) {
       'view own private files',
     ),
     'administrators' => array(
-      'administer easyddb direct',
       'access administration pages',
       'access all views',
       'access all webform results',
@@ -613,7 +612,6 @@ function ding_permissions_secure_permissions($role) {
       'view the administration theme',
     ),
     'local administrator' => array(
-      'administer easyddb direct',
       'access administration pages',
       'access all webform results',
       'access campaign rules',
