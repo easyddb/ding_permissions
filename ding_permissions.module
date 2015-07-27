@@ -171,6 +171,7 @@ function ding_permissions_secure_permissions($role) {
       'access all webform results',
       'access broken links report',
       'access campaign rules',
+      'access ckeditor link',
       'access comments',
       'access content',
       'access content overview',
@@ -450,6 +451,7 @@ function ding_permissions_secure_permissions($role) {
     'editor' => array(
       'access all webform results',
       'access campaign rules',
+      'access ckeditor link',
       'access content overview',
       'access contextual links',
       'access site-wide contact form',
@@ -589,6 +591,7 @@ function ding_permissions_secure_permissions($role) {
       'view the administration theme',
     ),
     'guest blogger' => array(
+      'access ckeditor link',
       'access overlay',
       'access site-wide contact form',
       'access toolbar',
@@ -621,6 +624,7 @@ function ding_permissions_secure_permissions($role) {
       'access all webform results',
       'access broken links report',
       'access campaign rules',
+      'access ckeditor link',
       'access content overview',
       'access site-wide contact form',
       'access contextual links',
@@ -796,6 +800,7 @@ function ding_permissions_secure_permissions($role) {
     'local editor' => array(
       'access all webform results',
       'access campaign rules',
+      'access ckeditor link',
       'access content overview',
       'access contextual links',
       'access site-wide contact form',
